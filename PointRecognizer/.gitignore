@@ -32,5 +32,9 @@ _UpgradeReport_Files/
 Thumbs.db
 Desktop.ini
 .DS_Store
-/result/
-/testPhotos/
+/result/*
+/testPhotos/*
+/AllCompare.rar
+/result.rar
+/result1/
+/result2/
